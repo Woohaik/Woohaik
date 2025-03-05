@@ -1,14 +1,7 @@
 # Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
-
-## Portafolio
-
-[https://Woohaik.github.io](https://Woohaik.github.io)
-
-
 ## Stats 📊
 
- 
 
 <table>
   <tr>
